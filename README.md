@@ -1,2 +1,2 @@
-# Foxiecat
+# FoxieCat
 mmp100
